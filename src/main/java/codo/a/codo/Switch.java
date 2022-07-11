@@ -24,5 +24,5 @@ public class Switch {
 		}
 				
 	}
-	teclado.close();
+	//teclado.close();
 }
